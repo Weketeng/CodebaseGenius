@@ -1,0 +1,4 @@
+gitpython
+streamlit
+tree_sitter
+jaseci
